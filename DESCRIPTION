@@ -1,0 +1,13 @@
+Package: sensors4plumesTests
+Type: Package
+Title: Tests for sensors4plumes
+Version: 0.1.0
+Author: Kristina B. Helle
+Maintainer: Kristina B. Helle <kristina.helle@uni-muenster.de>
+Description: This package includes the tests for (almost) all functions in sensors4plumes. It uses data from sensors4plumesData.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: sensors4plumes, sensors4plumesData, testthat
+
+
